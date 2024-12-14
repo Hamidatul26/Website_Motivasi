@@ -2,6 +2,7 @@
     text-decoration: none;
     margin: 0px;
     padding: 0px;
+    height: 80hv;
 }
 
 body{
@@ -212,6 +213,7 @@ a.tbl-kuning:hover{
 
 #contact {
     background: #dedede;
+    height: 80hv;
     padding:50px 0px 50px 0px;
 }
 
